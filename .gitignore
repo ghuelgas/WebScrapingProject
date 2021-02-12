@@ -134,3 +134,4 @@ dmypy.json
 *.csv
 *.sqlite
 
+USER_AGENT
